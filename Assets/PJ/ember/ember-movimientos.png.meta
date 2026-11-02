@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 30fd1066fa1307c49bcf8fa70a28f010
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7084567240646983074
+    second: ember-movimientos_0
+  - first:
+      213: 3867604347421843544
+    second: ember-movimientos_1
+  - first:
+      213: 6862133483233998118
+    second: ember-movimientos_2
+  - first:
+      213: -6141522515895135181
+    second: ember-movimientos_3
+  - first:
+      213: -8430583289612232920
+    second: ember-movimientos_4
+  - first:
+      213: -3637373278216826391
+    second: ember-movimientos_5
+  - first:
+      213: -2879136113944352961
+    second: ember-movimientos_6
+  - first:
+      213: -2151098029139686798
+    second: ember-movimientos_7
+  - first:
+      213: -7814952817435835768
+    second: ember-movimientos_8
+  - first:
+      213: 2819627116213500878
+    second: ember-movimientos_9
+  - first:
+      213: -3242131819954517002
+    second: ember-movimientos_10
+  - first:
+      213: -971239283959850255
+    second: ember-movimientos_11
+  - first:
+      213: 11023122662641093
+    second: ember-movimientos_12
+  - first:
+      213: 6283955273669905229
+    second: ember-movimientos_13
+  - first:
+      213: 460700779240845883
+    second: ember-movimientos_14
+  - first:
+      213: -5509630338926161184
+    second: ember-movimientos_15
+  - first:
+      213: -5049580968164824523
+    second: ember-movimientos_16
+  - first:
+      213: -8248162961095527488
+    second: ember-movimientos_17
+  - first:
+      213: -2851156697201975069
+    second: ember-movimientos_18
+  - first:
+      213: -6802824410073982267
+    second: ember-movimientos_19
+  - first:
+      213: -2524195206799384138
+    second: ember-movimientos_20
+  - first:
+      213: 318624403187412130
+    second: ember-movimientos_21
+  - first:
+      213: 2336167245955794250
+    second: ember-movimientos_22
+  - first:
+      213: 6299196537445476907
+    second: ember-movimientos_23
+  - first:
+      213: -8716386676698168036
+    second: ember-movimientos_24
+  - first:
+      213: -4814423592183517017
+    second: ember-movimientos_25
+  - first:
+      213: -69576933537933342
+    second: ember-movimientos_26
+  - first:
+      213: 4411075337146983320
+    second: ember-movimientos_27
+  - first:
+      213: 4698594977593861042
+    second: ember-movimientos_28
+  - first:
+      213: -7308726653416995477
+    second: ember-movimientos_29
+  - first:
+      213: -7685986349031546123
+    second: ember-movimientos_30
+  - first:
+      213: 4133914307601186072
+    second: ember-movimientos_31
+  - first:
+      213: -7252521883434544406
+    second: ember-movimientos_32
+  - first:
+      213: 8572564882901457177
+    second: ember-movimientos_33
+  - first:
+      213: -5682310359828528835
+    second: ember-movimientos_34
+  - first:
+      213: 1032646584058098620
+    second: ember-movimientos_35
+  - first:
+      213: 231095584195700250
+    second: ember-movimientos_36
+  - first:
+      213: 8913220873935545796
+    second: ember-movimientos_37
+  - first:
+      213: 2058556359542231735
+    second: ember-movimientos_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ember-movimientos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 226
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e520ed951af8ead90800000000000000
+      internalID: -7084567240646983074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 771
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850e5db99ad7ca530800000000000000
+      internalID: 3867604347421843544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 971
+        width: 244
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625f97dbb023b3f50800000000000000
+      internalID: 6862133483233998118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_3
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 981
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d10c9fcde4caa0800000000000000
+      internalID: -6141522515895135181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 761
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827915d4a2d800b80800000000000000
+      internalID: -8430583289612232920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 609
+        width: 247
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1536c6644758dc0800000000000000
+      internalID: -3637373278216826391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 761
+        width: 755
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37295c65f04b08d0800000000000000
+      internalID: -2879136113944352961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 309
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a06105db3c522e0800000000000000
+      internalID: -2151098029139686798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_8
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 560
+        width: 108
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8828c4461d5bb8390800000000000000
+      internalID: -7814952817435835768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 417
+        width: 109
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf6f45ce3512720800000000000000
+      internalID: 2819627116213500878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_10
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 445
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbce9c8942a103d0800000000000000
+      internalID: -3242131819954517002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 551
+        width: 523
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa1baf54077582f0800000000000000
+      internalID: -971239283959850255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_12
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 421
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd4f9eb879272000800000000000000
+      internalID: 11023122662641093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 389
+        width: 105
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b898f0708153750800000000000000
+      internalID: 6283955273669905229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_14
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 573
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b327566faecb46600800000000000000
+      internalID: 460700779240845883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 415
+        width: 196
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e25794e56cd983b0800000000000000
+      internalID: -5509630338926161184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 414
+        width: 185
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a66fffcd84ce9b0800000000000000
+      internalID: -5049580968164824523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 415
+        width: 105
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3fd5ecc73a88d80800000000000000
+      internalID: -8248162961095527488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_18
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 377
+        width: 117
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0ec480718ae68d0800000000000000
+      internalID: -2851156697201975069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_19
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 337
+        width: 220
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca1f20fd338791a0800000000000000
+      internalID: -6802824410073982267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 361
+        width: 210
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1aafa45d148fcd0800000000000000
+      internalID: -2524195206799384138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 897
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aca1c0e43bfb6400800000000000000
+      internalID: 318624403187412130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 379
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45091f8bbbbb6020800000000000000
+      internalID: 2336167245955794250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_23
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 201
+        width: 194
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aeec050ed3b6750800000000000000
+      internalID: 6299196537445476907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 358
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15457abf7c290780800000000000000
+      internalID: -8716386676698168036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_25
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 238
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a034a5304bbf2db0800000000000000
+      internalID: -4814423592183517017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_26
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 181
+        width: 237
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e719e7c520d80ff0800000000000000
+      internalID: -69576933537933342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_27
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 167
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e124f5a9473d30800000000000000
+      internalID: 4411075337146983320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 29
+        width: 117
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3aae6ec33c43140800000000000000
+      internalID: 4698594977593861042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 25
+        width: 125
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6586aef4df229a90800000000000000
+      internalID: -7308726653416995477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_30
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 482
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2297d3324e55590800000000000000
+      internalID: -7685986349031546123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_31
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 153
+        width: 162
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d397c092d9e5930800000000000000
+      internalID: 4133914307601186072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 23
+        width: 201
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae21324c5cdd95b90800000000000000
+      internalID: -7252521883434544406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 29
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9195453775ed7f670800000000000000
+      internalID: 8572564882901457177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_34
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 33
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3106ea75d06421b0800000000000000
+      internalID: -5682310359828528835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_35
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 35
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3bd45d892b45e00800000000000000
+      internalID: 1032646584058098620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_36
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 35
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16652d9534053300800000000000000
+      internalID: 231095584195700250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_37
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 94
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5668b192f12bb70800000000000000
+      internalID: 8913220873935545796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-movimientos_38
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 34
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d2a03a16719c10800000000000000
+      internalID: 2058556359542231735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ember-movimientos_0: -7084567240646983074
+      ember-movimientos_1: 3867604347421843544
+      ember-movimientos_10: -3242131819954517002
+      ember-movimientos_11: -971239283959850255
+      ember-movimientos_12: 11023122662641093
+      ember-movimientos_13: 6283955273669905229
+      ember-movimientos_14: 460700779240845883
+      ember-movimientos_15: -5509630338926161184
+      ember-movimientos_16: -5049580968164824523
+      ember-movimientos_17: -8248162961095527488
+      ember-movimientos_18: -2851156697201975069
+      ember-movimientos_19: -6802824410073982267
+      ember-movimientos_2: 6862133483233998118
+      ember-movimientos_20: -2524195206799384138
+      ember-movimientos_21: 318624403187412130
+      ember-movimientos_22: 2336167245955794250
+      ember-movimientos_23: 6299196537445476907
+      ember-movimientos_24: -8716386676698168036
+      ember-movimientos_25: -4814423592183517017
+      ember-movimientos_26: -69576933537933342
+      ember-movimientos_27: 4411075337146983320
+      ember-movimientos_28: 4698594977593861042
+      ember-movimientos_29: -7308726653416995477
+      ember-movimientos_3: -6141522515895135181
+      ember-movimientos_30: -7685986349031546123
+      ember-movimientos_31: 4133914307601186072
+      ember-movimientos_32: -7252521883434544406
+      ember-movimientos_33: 8572564882901457177
+      ember-movimientos_34: -5682310359828528835
+      ember-movimientos_35: 1032646584058098620
+      ember-movimientos_36: 231095584195700250
+      ember-movimientos_37: 8913220873935545796
+      ember-movimientos_38: 2058556359542231735
+      ember-movimientos_4: -8430583289612232920
+      ember-movimientos_5: -3637373278216826391
+      ember-movimientos_6: -2879136113944352961
+      ember-movimientos_7: -2151098029139686798
+      ember-movimientos_8: -7814952817435835768
+      ember-movimientos_9: 2819627116213500878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

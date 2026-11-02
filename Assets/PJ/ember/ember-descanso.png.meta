@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: e7dc38dc12d2c674a81cf770b681b823
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5294985735319987225
+    second: ember-descanso_0
+  - first:
+      213: -6600877186827652616
+    second: ember-descanso_1
+  - first:
+      213: 500730914584348775
+    second: ember-descanso_2
+  - first:
+      213: -5831709488504103410
+    second: ember-descanso_3
+  - first:
+      213: 5475202558273468397
+    second: ember-descanso_4
+  - first:
+      213: 6745237656724358900
+    second: ember-descanso_5
+  - first:
+      213: 5687132144307062829
+    second: ember-descanso_6
+  - first:
+      213: -6849131307701226368
+    second: ember-descanso_7
+  - first:
+      213: 3969287615714119477
+    second: ember-descanso_8
+  - first:
+      213: -1939097762565034087
+    second: ember-descanso_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ember-descanso_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 217
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08436782d5ff2f0a0800000000000000
+      internalID: -6849131307701226368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 74
+        width: 225
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f4ff96e0eb51730800000000000000
+      internalID: 3969287615714119477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 74
+        width: 240
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f6e85dbd0f615e0800000000000000
+      internalID: -1939097762565034087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_10
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 74
+        width: 230
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8814d4a99c39fa9408feeb3e178120d7
+      internalID: -511855560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 74
+        width: 212
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60498e4248f13f4db0ea4b2889d0a8e
+      internalID: -1363590420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_12
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 72
+        width: 208
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b14ed9fb384b46ad536f4f96e957a
+      internalID: 768592058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_13
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 74
+        width: 216
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079744da8db3b446955e6e3abdac3b7
+      internalID: 691994907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_14
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 67
+        width: 207
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11144cdebdccfb141b0c746a107d8a39
+      internalID: 1109704178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_15
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 83
+        width: 216
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766951a6405941642853890640441dce
+      internalID: 229054329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_16
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 74
+        width: 215
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263487a79def3964e81df6203663aa87
+      internalID: 559989974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember-descanso_17
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 45
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c819f20b6416f4a945194196e9f978
+      internalID: 1281299130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f32abae900af0e44fb430fe5c7bb12f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ember-descanso_0: -5294985735319987225
+      ember-descanso_1: -6600877186827652616
+      ember-descanso_10: -511855560
+      ember-descanso_11: -1363590420
+      ember-descanso_12: 768592058
+      ember-descanso_13: 691994907
+      ember-descanso_14: 1109704178
+      ember-descanso_15: 229054329
+      ember-descanso_16: 559989974
+      ember-descanso_17: 1281299130
+      ember-descanso_2: 500730914584348775
+      ember-descanso_3: -5831709488504103410
+      ember-descanso_4: 5475202558273468397
+      ember-descanso_5: 6745237656724358900
+      ember-descanso_6: 5687132144307062829
+      ember-descanso_7: -6849131307701226368
+      ember-descanso_8: 3969287615714119477
+      ember-descanso_9: -1939097762565034087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

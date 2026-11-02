@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 06ba385b1a214cd48a4fab05708f6f24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6927526756944930168
+    second: papiro_0
+  - first:
+      213: -1073601730438234001
+    second: papiro_1
+  - first:
+      213: -3201907865428503271
+    second: papiro_2
+  - first:
+      213: -857063239715592858
+    second: papiro_3
+  - first:
+      213: 4486064783928265795
+    second: papiro_4
+  - first:
+      213: -8326394874998721624
+    second: papiro_5
+  - first:
+      213: -8584406905591091963
+    second: papiro_6
+  - first:
+      213: -5785200555104599278
+    second: papiro_7
+  - first:
+      213: 6594679205328385278
+    second: papiro_8
+  - first:
+      213: 8337106832892631552
+    second: papiro_9
+  - first:
+      213: -3679527346600529262
+    second: papiro_10
+  - first:
+      213: -721848741860996730
+    second: papiro_11
+  - first:
+      213: 7238593497561527556
+    second: papiro_12
+  - first:
+      213: 3519767588095404464
+    second: papiro_13
+  - first:
+      213: -9175389031754984411
+    second: papiro_14
+  - first:
+      213: 8619225109824709363
+    second: papiro_15
+  - first:
+      213: 293460558403876042
+    second: papiro_16
+  - first:
+      213: 6473029418677204922
+    second: papiro_17
+  - first:
+      213: -1903239575162649521
+    second: papiro_18
+  - first:
+      213: -7200489932384597494
+    second: papiro_19
+  - first:
+      213: -6346680922767533211
+    second: papiro_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: papiro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a98404e1b7cdf90800000000000000
+      internalID: -6927526756944930168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0605d4226c3477942bb352b5bc0b8f37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1254.0,"y":1254.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      papiro_0: -6927526756944930168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

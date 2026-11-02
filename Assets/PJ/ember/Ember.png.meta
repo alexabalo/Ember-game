@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: a8caae5ececf4ca4dabdb93d15a15530
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6226900010406427004
+    second: Ember_0
+  - first:
+      213: 5515648523538570194
+    second: Ember_1
+  - first:
+      213: -5795548900563194264
+    second: Ember_2
+  - first:
+      213: -5803287448628626469
+    second: Ember_3
+  - first:
+      213: 6208882888246834484
+    second: Ember_4
+  - first:
+      213: -3438156366177105100
+    second: Ember_5
+  - first:
+      213: -3964083033170212648
+    second: Ember_6
+  - first:
+      213: -3173707265754389482
+    second: Ember_7
+  - first:
+      213: 7314558992844650426
+    second: Ember_8
+  - first:
+      213: 7048640405186796624
+    second: Ember_9
+  - first:
+      213: 5835572104712828925
+    second: Ember_10
+  - first:
+      213: 2365979833459952154
+    second: Ember_11
+  - first:
+      213: 2172345273838819881
+    second: Ember_12
+  - first:
+      213: 86512553235375468
+    second: Ember_13
+  - first:
+      213: -8916514741029942946
+    second: Ember_14
+  - first:
+      213: -3355091421291927753
+    second: Ember_15
+  - first:
+      213: 547611363655020584
+    second: Ember_16
+  - first:
+      213: -2158147708650570693
+    second: Ember_17
+  - first:
+      213: 8253308684538130420
+    second: Ember_18
+  - first:
+      213: 6404569347191559304
+    second: Ember_19
+  - first:
+      213: -7815019524632313909
+    second: Ember_20
+  - first:
+      213: 688348820835919226
+    second: Ember_21
+  - first:
+      213: 2994336357213444191
+    second: Ember_22
+  - first:
+      213: 2921077164462327834
+    second: Ember_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ember_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 234
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48649db9e6b9599a0800000000000000
+      internalID: -6226900010406427004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 502
+        width: 234
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db9c67eb158b8c40800000000000000
+      internalID: 5515648523538570194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 502
+        width: 234
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e66872bf2129fa0800000000000000
+      internalID: -5795548900563194264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 502
+        width: 234
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf10700d4967fa0800000000000000
+      internalID: -5803287448628626469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 502
+        width: 234
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43534fd37126a2650800000000000000
+      internalID: 6208882888246834484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 502
+        width: 234
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b04c740073940d0800000000000000
+      internalID: -3438156366177105100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 234
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61422ab8e0ab4f3d0800000000000000
+      internalID: -3173707265754389482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 166
+        width: 234
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7f42956a8828560800000000000000
+      internalID: 7314558992844650426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 508a154e9b11dba409e0309dd13c5498
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":234.0,"y":385.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ember_0: -6226900010406427004
+      Ember_1: 5515648523538570194
+      Ember_10: 5835572104712828925
+      Ember_11: 2365979833459952154
+      Ember_12: 2172345273838819881
+      Ember_2: -5795548900563194264
+      Ember_3: -5803287448628626469
+      Ember_4: 6208882888246834484
+      Ember_5: -3438156366177105100
+      Ember_6: -3964083033170212648
+      Ember_7: -3173707265754389482
+      Ember_8: 7314558992844650426
+      Ember_9: 7048640405186796624
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

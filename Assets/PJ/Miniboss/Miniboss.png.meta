@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 34472ab74edc01d4a85a75f3d3eb6af0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8758974874073581536
+    second: Miniboss_0
+  - first:
+      213: -621865888214451040
+    second: Miniboss_1
+  - first:
+      213: -8073637831708522933
+    second: Miniboss_2
+  - first:
+      213: 1812401110722766197
+    second: Miniboss_3
+  - first:
+      213: -3212807566828020918
+    second: Miniboss_4
+  - first:
+      213: 1055520067217249998
+    second: Miniboss_5
+  - first:
+      213: -7834290690227212895
+    second: Miniboss_6
+  - first:
+      213: 6785811539587360195
+    second: Miniboss_7
+  - first:
+      213: -3573277679214145098
+    second: Miniboss_8
+  - first:
+      213: -5793250307177535289
+    second: Miniboss_9
+  - first:
+      213: 2501534610537151001
+    second: Miniboss_10
+  - first:
+      213: -854659544006357793
+    second: Miniboss_11
+  - first:
+      213: 8136389592920349132
+    second: Miniboss_12
+  - first:
+      213: -3733929219283039629
+    second: Miniboss_13
+  - first:
+      213: -5388668537540199659
+    second: Miniboss_14
+  - first:
+      213: -7000953825373057209
+    second: Miniboss_15
+  - first:
+      213: -5117613457268483093
+    second: Miniboss_16
+  - first:
+      213: -1110600758030365987
+    second: Miniboss_17
+  - first:
+      213: 8320158043779797981
+    second: Miniboss_18
+  - first:
+      213: 6230248210966237309
+    second: Miniboss_19
+  - first:
+      213: 2280198353046132166
+    second: Miniboss_20
+  - first:
+      213: 4764638270361608835
+    second: Miniboss_21
+  - first:
+      213: 8285614513094659805
+    second: Miniboss_22
+  - first:
+      213: -5526066008023721295
+    second: Miniboss_23
+  - first:
+      213: -502933091884307050
+    second: Miniboss_24
+  - first:
+      213: 5135088825074238962
+    second: Miniboss_25
+  - first:
+      213: -3089799203713863067
+    second: Miniboss_26
+  - first:
+      213: 8210227554991470111
+    second: Miniboss_27
+  - first:
+      213: -6812108278037301204
+    second: Miniboss_28
+  - first:
+      213: -4080039752974083183
+    second: Miniboss_29
+  - first:
+      213: -1731965926754941155
+    second: Miniboss_30
+  - first:
+      213: 2760684882256237625
+    second: Miniboss_31
+  - first:
+      213: -7854183035097490643
+    second: Miniboss_32
+  - first:
+      213: 5264932755841969460
+    second: Miniboss_33
+  - first:
+      213: -8144483724001407695
+    second: Miniboss_34
+  - first:
+      213: -1616351115356411416
+    second: Miniboss_35
+  - first:
+      213: -3815450976222034221
+    second: Miniboss_36
+  - first:
+      213: 9111545260031737738
+    second: Miniboss_37
+  - first:
+      213: -4268639988752883936
+    second: Miniboss_38
+  - first:
+      213: 4118869320525937774
+    second: Miniboss_39
+  - first:
+      213: 6241589694654168125
+    second: Miniboss_40
+  - first:
+      213: -5863700799681161710
+    second: Miniboss_41
+  - first:
+      213: -693768573437892264
+    second: Miniboss_42
+  - first:
+      213: -7561604820859557994
+    second: Miniboss_43
+  - first:
+      213: 4351830682798514540
+    second: Miniboss_44
+  - first:
+      213: 2843692880202273236
+    second: Miniboss_45
+  - first:
+      213: -1070048396968522754
+    second: Miniboss_46
+  - first:
+      213: 4863396019960792833
+    second: Miniboss_47
+  - first:
+      213: -147776124631446519
+    second: Miniboss_48
+  - first:
+      213: 6459919392060921404
+    second: Miniboss_49
+  - first:
+      213: -7388980771761609414
+    second: Miniboss_50
+  - first:
+      213: -2879033586873221432
+    second: Miniboss_51
+  - first:
+      213: 8569743200590935115
+    second: Miniboss_52
+  - first:
+      213: -5212125141034700372
+    second: Miniboss_53
+  - first:
+      213: 8070871897344139005
+    second: Miniboss_54
+  - first:
+      213: -3747485701828414032
+    second: Miniboss_55
+  - first:
+      213: -1347508357108841584
+    second: Miniboss_56
+  - first:
+      213: -4457603357196027853
+    second: Miniboss_57
+  - first:
+      213: -7334019780761285566
+    second: Miniboss_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miniboss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 1536
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028b54252ced17680800000000000000
+      internalID: -8758974874073581536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_1
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 919
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7b0bf440be57f0800000000000000
+      internalID: -621865888214451040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 821
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46cbd30b2da4ff80800000000000000
+      internalID: -8073637831708522933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 807
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575672b2531f62910800000000000000
+      internalID: 1812401110722766197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b57874a80d963d0800000000000000
+      internalID: -3212807566828020918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 575
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6d7c3a8e5f5ae00800000000000000
+      internalID: 1055520067217249998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 599
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6bd50022074390800000000000000
+      internalID: -7834290690227212895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_7
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 577
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e9d974ab0c2e50800000000000000
+      internalID: 6785811539587360195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_8
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 589
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1db9ef1ea296ec0800000000000000
+      internalID: -3573277679214145098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_9
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 601
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a2c12a8d3a9fa0800000000000000
+      internalID: -5793250307177535289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_10
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 591
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a796e797c37b220800000000000000
+      internalID: 2501534610537151001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_11
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 593
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc8a934ca3a324f0800000000000000
+      internalID: -854659544006357793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_12
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 591
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9d330f9334ae070800000000000000
+      internalID: 8136389592920349132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_13
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 567
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ace24882b6e2cc0800000000000000
+      internalID: -3733929219283039629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 591
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bb797f38a9735b0800000000000000
+      internalID: -5388668537540199659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 573
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0ab5a69d97de90800000000000000
+      internalID: -7000953825373057209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_16
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 578
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebd0c5cca59af8b0800000000000000
+      internalID: -5117613457268483093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 573
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda025aae7a5690f0800000000000000
+      internalID: -1110600758030365987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_18
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 571
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd39a92a8a3277370800000000000000
+      internalID: 8320158043779797981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 637
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70d7251db9467650800000000000000
+      internalID: 6230248210966237309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 573
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5deb23254e4af10800000000000000
+      internalID: 2280198353046132166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 210
+        width: 917
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a22443456f1240800000000000000
+      internalID: 4764638270361608835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_22
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 526
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde04d6208a6cf270800000000000000
+      internalID: 8285614513094659805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 539
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba926a7e387f43b0800000000000000
+      internalID: -5526066008023721295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 575
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d627084093509f0800000000000000
+      internalID: -502933091884307050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_25
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 560
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5c0ac5410834740800000000000000
+      internalID: 5135088825074238962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_26
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 577
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b953aef3de15d0800000000000000
+      internalID: -3089799203713863067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 553
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16f36c267690f170800000000000000
+      internalID: 8210227554991470111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 5
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b61cfc978671a0800000000000000
+      internalID: -6812108278037301204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bd18e2679c067c0800000000000000
+      internalID: -4080039752974083183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 275
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1701bc7a22d6f7e0800000000000000
+      internalID: -1731965926754941155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_31
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 279
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9349caf064cef4620800000000000000
+      internalID: 2760684882256237625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_32
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 289
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b5d109426500390800000000000000
+      internalID: -7854183035097490643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_33
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 271
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d6746527cc01940800000000000000
+      internalID: 5264932755841969460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_34
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 273
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d02ff443bf8fe80800000000000000
+      internalID: -8144483724001407695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_35
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 290
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9efd079319199e0800000000000000
+      internalID: -1616351115356411416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 611
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d64e506d8bcc0bc0800000000000000
+      internalID: -3815450976222034221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_37
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 273
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff5139326b27e70800000000000000
+      internalID: 9111545260031737738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_38
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 273
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f5b54eb8eb2c4c0800000000000000
+      internalID: -4268639988752883936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 273
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cf33603d9292930800000000000000
+      internalID: 4118869320525937774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 271
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cb99702c49e9650800000000000000
+      internalID: 6241589694654168125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 271
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21694dd9033ff9ea0800000000000000
+      internalID: -5863700799681161710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_42
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 277
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859a7ef782d3f56f0800000000000000
+      internalID: -693768573437892264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_43
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 270
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697e8c08a78cf0790800000000000000
+      internalID: -7561604820859557994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_44
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 249
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e9d2f2fec46c30800000000000000
+      internalID: 4351830682798514540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_45
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 275
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d193c6ab93d67720800000000000000
+      internalID: 2843692880202273236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_46
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 218
+        width: 120
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb073ef6ac6621f0800000000000000
+      internalID: -1070048396968522754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 263
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107cfcba9e04e7340800000000000000
+      internalID: 4863396019960792833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_48
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 265
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0f09c56ef2fdf0800000000000000
+      internalID: -147776124631446519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 251
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36d271067e36a950800000000000000
+      internalID: 6459919392060921404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_50
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 233
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3525f6f221157990800000000000000
+      internalID: -7388980771761609414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_51
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceb00ed43e9b08d0800000000000000
+      internalID: -2879033586873221432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_52
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ba875908dde670800000000000000
+      internalID: 8569743200590935115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_53
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 922
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca17ebb9ccfcaa7b0800000000000000
+      internalID: -5212125141034700372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_54
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 221
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe51e4ba3f710070800000000000000
+      internalID: 8070871897344139005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_55
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 223
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b579a5fb914efbc0800000000000000
+      internalID: -3747485701828414032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_56
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 207
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09348a2e940bc4de0800000000000000
+      internalID: -1347508357108841584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_57
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 225
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338fdb03d596322c0800000000000000
+      internalID: -4457603357196027853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miniboss_58
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 45
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c0900edd3583a90800000000000000
+      internalID: -7334019780761285566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Miniboss_0: -8758974874073581536
+      Miniboss_1: -621865888214451040
+      Miniboss_10: 2501534610537151001
+      Miniboss_11: -854659544006357793
+      Miniboss_12: 8136389592920349132
+      Miniboss_13: -3733929219283039629
+      Miniboss_14: -5388668537540199659
+      Miniboss_15: -7000953825373057209
+      Miniboss_16: -5117613457268483093
+      Miniboss_17: -1110600758030365987
+      Miniboss_18: 8320158043779797981
+      Miniboss_19: 6230248210966237309
+      Miniboss_2: -8073637831708522933
+      Miniboss_20: 2280198353046132166
+      Miniboss_21: 4764638270361608835
+      Miniboss_22: 8285614513094659805
+      Miniboss_23: -5526066008023721295
+      Miniboss_24: -502933091884307050
+      Miniboss_25: 5135088825074238962
+      Miniboss_26: -3089799203713863067
+      Miniboss_27: 8210227554991470111
+      Miniboss_28: -6812108278037301204
+      Miniboss_29: -4080039752974083183
+      Miniboss_3: 1812401110722766197
+      Miniboss_30: -1731965926754941155
+      Miniboss_31: 2760684882256237625
+      Miniboss_32: -7854183035097490643
+      Miniboss_33: 5264932755841969460
+      Miniboss_34: -8144483724001407695
+      Miniboss_35: -1616351115356411416
+      Miniboss_36: -3815450976222034221
+      Miniboss_37: 9111545260031737738
+      Miniboss_38: -4268639988752883936
+      Miniboss_39: 4118869320525937774
+      Miniboss_4: -3212807566828020918
+      Miniboss_40: 6241589694654168125
+      Miniboss_41: -5863700799681161710
+      Miniboss_42: -693768573437892264
+      Miniboss_43: -7561604820859557994
+      Miniboss_44: 4351830682798514540
+      Miniboss_45: 2843692880202273236
+      Miniboss_46: -1070048396968522754
+      Miniboss_47: 4863396019960792833
+      Miniboss_48: -147776124631446519
+      Miniboss_49: 6459919392060921404
+      Miniboss_5: 1055520067217249998
+      Miniboss_50: -7388980771761609414
+      Miniboss_51: -2879033586873221432
+      Miniboss_52: 8569743200590935115
+      Miniboss_53: -5212125141034700372
+      Miniboss_54: 8070871897344139005
+      Miniboss_55: -3747485701828414032
+      Miniboss_56: -1347508357108841584
+      Miniboss_57: -4457603357196027853
+      Miniboss_58: -7334019780761285566
+      Miniboss_6: -7834290690227212895
+      Miniboss_7: 6785811539587360195
+      Miniboss_8: -3573277679214145098
+      Miniboss_9: -5793250307177535289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
